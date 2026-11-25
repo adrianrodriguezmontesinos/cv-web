@@ -60,7 +60,7 @@
   .cv-modal__title {
     position: relative;
     width: fit-content;
-    font-size: clamp(1.55rem, 1.3rem + 1.4vw, 2.1rem);
+    font-size: clamp(1.3rem, 1.1rem + 1.4vw, 2.1rem);
     letter-spacing: -0.015em;
     margin-block-end: 0.7rem;
   }

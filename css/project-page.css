@@ -251,7 +251,7 @@
     display: inline-flex;
     align-items: center;
     gap: 0.55rem;
-    padding: 0.78rem 1.55rem;
+    padding: 0.32rem 0.9rem;
     border-radius: 999px;
     background: var(--accent);
     color: var(--on-accent);
